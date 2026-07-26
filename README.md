@@ -53,37 +53,37 @@ Library-Management-System/
 
 ### Main Menu
 
-![Main Menu](screenshots/main-menu.jpeg)
+![Main Menu](Screenshots/main-menu.jpeg)
 
 ---
 
 ### Add Book Record
 
-![Add Book](screenshots/add-book.jpeg)
+![Add Book](Screenshots/addbook.jpeg)
 
 ---
 
 ### Search Book Record
 
-![Search Book](screenshots/search-book.jpeg)
+![Search Book](Screenshots/searchbook.jpeg)
 
 ---
 
 ### Edit Book Record
 
-![Edit Book](screenshots/edit-book.jpeg)
+![Edit Book](Screenshots/editbook.jpeg)
 
 ---
 
 ### Delete Book Record
 
-![Delete Book](screenshots/delete-book.jpeg)
+![Delete Book](Screenshots/deletebook.jpeg)
 
 ---
 
 ### Display Book Records
 
-![Display Books](screenshots/display-books.jpeg)
+![Display Books](Screenshots/displaybooks.jpeg)
 
 ---
 
