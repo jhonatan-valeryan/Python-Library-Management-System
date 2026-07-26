@@ -1,0 +1,23 @@
+9780475869729,Napolean hill,Think and Grow Rich,Simon and Schuster,Non-fiction,1937,07-10-2011,read
+9781343894850,David Macaulay,The Way Things Work,Houghton Mifflin Co.,Educational,1988,31-11-2020,to-read
+9781449340377,Eric Matthes,Python Crash Course,O'Reilly Media,Programming,2015,10-12-2020,read
+9780061120084,Malcolm Gladwell,Outliers: The Story of Success,Little Brown and Company,Psychology,2008,21-07-2021,read
+9780307277674,Michael Pollan,The Omnivore's Dilemma: A Natural History of Four Meals,Penguin Books,Non-fiction,2006,15-05-2022,read
+9780143115007,Yuval Noah Harari,Sapiens: A Brief History of Humankind,Penguin Random House,History,2014,30-09-2021,to-read
+9780062457714,Celeste Ng,Little Fires Everywhere,Penguin Press,Fiction,2017,04-02-2022,read
+9780525478812,Rupi Kaur,Milk and Honey,Andrews McMeel Publishing,Poetry,2014,08-18-2021,to-read
+9780735219090,Michelle Obama,Becoming,Crown Publishing Group,Memoir,2018,12-10-2020,read
+9780525558613,Stuart J. Russell,Human Compatible,Viking,Non-fiction,2019,07-08-2022,to-read
+9781979429429,James Hendrickson,Artificial Intelligence: Taking Over,Createspace Independent Publishing Platform,non-fiction,2017,21-01-2023,to-read
+9780393635829,Brian Christian,The Alignment Problem,W. W. Norton & Company,non-fiction,2020,17-05-2021,read
+9780062458193,Antonio Garcia Martinez,Chaos Monkeys,HarperCollins,Biographies,2016,22-10-2021,read
+9780807014271,Viktor E. Frankl,Man's Search for Meaning,Beacon Press,Autobiography,1959,07-10-2019,read
+9780747546245,J. K. Rowling,Harry Potter and the Goblet of Fire,Bloomsbury,Fiction,2000,19-04-2017,read
+9781594489501,Khaled Hosseini,A Thousand Splendid Suns,Riverhead Books ,Novel,2007,12-04-2019,read
+9780156029438,Audrey Niffenegger,The Time Traveler's Wife,Harcourt,Romance,2003,23-10-2023,to-read
+9780770430078,Yann Martel,Life of Pi,Seal Books,Non-Fiction,2001,02-10-2002,to-read
+9780060529703,Jonathan Safran Foer,Everything is Illuminated ,Harper Perennial,Fiction,2002,04-02-2012,read
+9780440238157,Philip Pullman,The Amber Spyglass,David Fickling Books,Fiction,2003,12-06-2020,to-read
+9780439023511,Suzanne Collins,Mockingjay,Scholastic Press,Fantasy,2012,14-05-2021,read
+9781594633669,Paula Hawkins,The Girl on the Train,Riverhead Books,thriller,2015,03-11-2022,to-read
+9783125776920,Margaret Atwood,The Handmaid's Tale,Anchor Books,Fiction,1998,23-09-2022,to-read
